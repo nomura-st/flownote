@@ -23,7 +23,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "build:pages": "npm run build && rimraf ../docs && npm run copy build ../docs",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll=false",
     "eject": "react-scripts eject",
     "clean": "rimraf build",
     "copy": "node tool/copy.js",
