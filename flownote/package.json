@@ -21,7 +21,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "build:pages": "npm run build && rimraf docs && npm run copy build docs",
+    "build:pages": "npm run build && rimraf ../docs && npm run copy build ../docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "clean": "rimraf build",
