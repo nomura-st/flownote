@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/flownote/static/css/main.0aa13b64.css",
-    "main.js": "/flownote/static/js/main.7366518b.js",
-    "static/js/787.1c6f95b5.chunk.js": "/flownote/static/js/787.1c6f95b5.chunk.js",
-    "static/media/logo.svg": "/flownote/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
-    "index.html": "/flownote/index.html",
-    "main.0aa13b64.css.map": "/flownote/static/css/main.0aa13b64.css.map",
-    "main.7366518b.js.map": "/flownote/static/js/main.7366518b.js.map",
-    "787.1c6f95b5.chunk.js.map": "/flownote/static/js/787.1c6f95b5.chunk.js.map"
+    "main.js": "./static/js/main.b39da5ca.js",
+    "static/js/787.1c6f95b5.chunk.js": "./static/js/787.1c6f95b5.chunk.js",
+    "index.html": "./index.html",
+    "main.b39da5ca.js.map": "./static/js/main.b39da5ca.js.map",
+    "787.1c6f95b5.chunk.js.map": "./static/js/787.1c6f95b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0aa13b64.css",
-    "static/js/main.7366518b.js"
+    "static/js/main.b39da5ca.js"
   ]
 }
